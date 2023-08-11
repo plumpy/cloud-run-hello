@@ -17,3 +17,4 @@ Set a `COLOR` environment variable to a valid CSS color to change the background
 foo
 foo
 foo
+foo
