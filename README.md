@@ -14,3 +14,4 @@ It also contains the source code of a placeholder public container
 Set a `COLOR` environment variable to a valid CSS color to change the background color.
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+foo
