@@ -1,5 +1,7 @@
 # Cloud Run "Hello" container
 
+test
+
 This repository contains the source code of a sample Go application that is
 distributed as the public container image (`us-docker.pkg.dev/cloudrun/container/hello`) used in the
 [Cloud Run quickstart](https://cloud.google.com/run/docs/quickstarts/deploy-container) and as
