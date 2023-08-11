@@ -16,3 +16,4 @@ Set a `COLOR` environment variable to a valid CSS color to change the background
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 foo
 foo
+foo
